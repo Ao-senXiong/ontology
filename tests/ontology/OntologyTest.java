@@ -6,8 +6,8 @@ import java.util.ArrayList;
 import java.util.List;
 import ontology.solvers.backend.OntologySolverEngine;
 import org.checkerframework.framework.test.TestUtilities;
-import org.plumelib.util.IPair;
 import org.junit.runners.Parameterized.Parameters;
+import org.plumelib.util.IPair;
 
 public class OntologyTest extends CFInferenceTest {
 
